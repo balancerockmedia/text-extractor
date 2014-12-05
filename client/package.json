@@ -1,0 +1,8 @@
+{
+  "name": "text-extractor",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "webdriverio": "^2.4.0"
+  }
+}
