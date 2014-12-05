@@ -3,6 +3,8 @@ Text Extractor UI
 
 ### To run the app ###
 
+* `bower install`
+* `npm install`
 * Browse to index.html using your local web server
 
 ### To execute the tests ###
