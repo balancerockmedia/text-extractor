@@ -18,6 +18,10 @@ options '*' do
 end
 
 # routes
+get '/' do
+  'Nothing here to see...'
+end
+
 post '/upload' do
   text = TextExtractor::FromPDF.read(params[:file][:tempfile])
 
