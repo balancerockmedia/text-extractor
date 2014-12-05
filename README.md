@@ -3,8 +3,4 @@ Text Extractor
 
 This demo shows a way to extract text from a PDF file using Ruby.
 
-See the following for more info,
-
-[API Docs](server/README.md)
-
-[UI Docs](client/README.md)
+See the [API Docs](server/README.md) and [UI Docs](client/README.md) for more info.
