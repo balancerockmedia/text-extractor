@@ -17,11 +17,13 @@ This API exposes an endpoint for uploading a PDF file and recieving back the tex
 ##### Request
 
 POST /upload
+
 Content-Type: multipart/form-data
 
 ##### Response - Success
 
 HTTP/1.1 200 OK
+
 Content-Type: application/json
 
 { "pdf_text": "Lorem ipsum dolor sit amet." }
